@@ -8,21 +8,6 @@ An **HR Analytics Project** developed using **Tableau** to visualize and analyze
 ## Tools Used
 - Tableau
 
-## Project Structure
-HR Analytics Project/
-│
-├── Data/
-│ └── HR_Data.xlsx
-│
-├── Dashboard/
-│ └── dashboard.png
-│
-├── Report/
-│ └── Insights_and_Recommendations.pdf
-│
-└── README.md
-
-
 ## Folder Details
 
 ### Data
